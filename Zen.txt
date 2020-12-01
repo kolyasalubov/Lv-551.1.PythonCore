@@ -11,4 +11,4 @@
 10.Errors should never pass silently.
 11.
 17.If the implementation is hard to explain, it's a bad idea.
-
+21. Explicit is better than implicit.
