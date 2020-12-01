@@ -5,8 +5,10 @@
 4.
 5.
 6.Sparse is better than dense.
-7.
+7.Readability counts.
 8.
 9.
-10.
+10.Errors should never pass silently.
 11.
+17.If the implementation is hard to explain, it's a bad idea.
+
