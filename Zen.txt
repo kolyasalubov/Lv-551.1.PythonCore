@@ -13,6 +13,7 @@ Zen of Python
 12.In the face of ambiguity, refuse the temptation to guess.
 13.There should be one-- and preferably only one --obvious way to do it.
 14.Although that way may not be obvious at first unless you're Dutch.
+15.Errors should never pass silently.
 17.If the implementation is hard to explain, it's a bad idea.
 20. Beautiful is better than ugly.
 21. Explicit is better than implicit.
